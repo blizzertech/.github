@@ -13,8 +13,8 @@ Blizzer’s mission is to **free people from the ordinary**, unlocking time for 
 ## 🌍 AI for Cambodia, AI for the World  
 From Cambodia — a nation at the dawn of its digital revolution —  
 we are shaping tools that:  
-- 🗣 Bring Khmer to life with **[Text-to-Speech (TTS) Demo ↗](https://ttsdemo.com/)**  
-- 🪪 Verify identity with AI-powered **[OCR eKYC Demo ↗](https://github.com/NaverCloudPlatform/clova-ekyc-examples)**  
+- 🗣 Bring Khmer to life with **[Text-to-Speech (TTS) Demo ↗](https://www.blizzer.tech/products/tts)**  
+- 🪪 Verify identity with AI-powered **[OCR eKYC Demo ↗](https://www.blizzer.tech/products/ekyc)**  
 - 🛠 Build the **future of data** with AI-enhanced labeling  
 - 🤖 Simplify work through **digital assistants & proxy models**  
 - 🔒 Deliver **custom, secure AI models** for enterprises everywhere  
@@ -36,8 +36,8 @@ Blizzer exists to **unlock human potential** and shape a future where AI inspire
 ---
 
 ## 🌈 Try Blizzer AI  
-🔹 [Khmer TTS Demo](https://ttsdemo.com/)  
-🔹 [OCR eKYC Sample Demo](https://github.com/NaverCloudPlatform/clova-ekyc-examples)  
+🔹 [Khmer TTS Demo](https://www.blizzer.tech/products/tts)  
+🔹 [OCR eKYC Sample Demo](https://www.blizzer.tech/products/ekyc)  
 🔹 [Explore More on blizzer.tech](https://blizzer.tech/#products)  
 
 ---
