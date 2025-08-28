@@ -1,46 +1,47 @@
-# Blizzer: Igniting Potential with the Power of AI 🚀
-
-## About Blizzer
-
-In the dawn of 2024, Blizzer emerged as a beacon of innovation in the artificial intelligence landscape. We are more than a technology company – we are architects of the future, dedicated to democratizing advanced AI and bridging the gap between complex algorithms and everyday experiences.
-
-## 🌟 Our Vision: Empowering Humanity Through AI
-
-At Blizzer, we don't see AI as a replacement for human ingenuity, but as a powerful enhancer and catalyst for progress. Our mission is to liberate individuals from mundane tasks, enabling them to focus on creativity, strategy, and meaningful connections.
-
-## 🤖 Meet Kiri: Your Intelligent Companion
-
-Introducing Kiri, our flagship digital assistant – a collaborative partner meticulously designed to amplify productivity and streamline workflows. Kiri is more than a tool; she's a digital ally ready to assist, learn, and evolve with you.
-
-### 🔑 Key Differentiators
-
-- **Cutting-Edge AI Technology**
-- **Human-Centric Design**
-- **Uncompromising Data Privacy**
-- **Continuous Innovation**
-
-## 🌐 Core Values
-
-1. **Unwavering Innovation**
-2. **Democratizing AI**
-3. **Exceptional Reliability**
-4. **Built on Trust**
-
-## 🔒 Commitment to Privacy and Security
-
-We prioritize your data security with:
-- Robust security protocols
-- Transparent privacy policies
-- Ethical AI development
-
-## 🚀 Our Promise
-
-"Unlock limitless potential within you with Kiri" – This is not just a slogan, but our fundamental belief. We are committed to transforming AI from a source of apprehension to a source of inspiration and empowerment.
-
-## 🌈 Join the Blizzer Revolution
-
-The future of AI is not just promising; it's limitless. We invite you to be part of our journey in reshaping how technology interacts with human potential.
+## About Blizzer  
+At the **dawn of 2024**, Blizzer rose as a **beacon of innovation in Cambodia**, uniting **human creativity** and **artificial intelligence**.  
+We are more than a technology company — we are **architects of possibility**, building AI that is **accessible, ethical, and transformative**.  
 
 ---
 
-**Blizzer Technologies** | Pioneering Intelligent Solutions
+## ⚡ Our Vision  
+AI is not here to replace; it is here to **empower**.  
+Blizzer’s mission is to **free people from the ordinary**, unlocking time for creativity, strategy, and deeper human connection.  
+
+---
+
+## 🌍 AI for Cambodia, AI for the World  
+From Cambodia — a nation at the dawn of its digital revolution —  
+we are shaping tools that:  
+- 🗣 Bring Khmer to life with **[Text-to-Speech (TTS) Demo ↗](https://ttsdemo.com/)**  
+- 🪪 Verify identity with AI-powered **[OCR eKYC Demo ↗](https://github.com/NaverCloudPlatform/clova-ekyc-examples)**  
+- 🛠 Build the **future of data** with AI-enhanced labeling  
+- 🤖 Simplify work through **digital assistants & proxy models**  
+- 🔒 Deliver **custom, secure AI models** for enterprises everywhere  
+
+---
+
+## 🌐 Core Values  
+✨ **Innovation at the Dawn** – leading new possibilities  
+🌏 **Democratizing AI** – from Cambodia to the world  
+🤝 **Trust & Ethics** – AI built responsibly  
+⚡ **Reliability** – technology you can depend on  
+
+---
+
+## 🚀 Our Promise  
+> “At the dawn of AI, we see not fear, but freedom.  
+Blizzer exists to **unlock human potential** and shape a future where AI inspires.”  
+
+---
+
+## 🌈 Try Blizzer AI  
+🔹 [Khmer TTS Demo](https://ttsdemo.com/)  
+🔹 [OCR eKYC Sample Demo](https://github.com/NaverCloudPlatform/clova-ekyc-examples)  
+🔹 [Explore More on blizzer.tech](https://blizzer.tech/#products)  
+
+---
+
+**Blizzer Technologies** | *Born at the dawn of AI, rising from Cambodia to the world* 🌏  
+
+---
